@@ -1,2 +1,3 @@
 JD
 Druga linia: 10:19 2020-09-27
+Trzecia linia:	11:22 2020-09-27
